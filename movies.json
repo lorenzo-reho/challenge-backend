@@ -1,0 +1,46 @@
+{
+    "movies": [
+      {
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "release_year": 2010,
+        "genre": ["Action", "Sci-Fi", "Thriller"],
+        "rating": 8.8,
+        "duration": 148,
+        "cast": [
+          {"actor": "Leonardo DiCaprio", "character": "Dom Cobb"},
+          {"actor": "Joseph Gordon-Levitt", "character": "Arthur"},
+          {"actor": "Ellen Page", "character": "Ariadne"}
+        ],
+        "synopsis": "A thief who enters the dreams of others to steal secrets from their subconscious is given the task of planting an idea into the mind of a CEO."
+      },
+      {
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "release_year": 2008,
+        "genre": ["Action", "Crime", "Drama"],
+        "rating": 9.0,
+        "duration": 152,
+        "cast": [
+          {"actor": "Christian Bale", "character": "Bruce Wayne / Batman"},
+          {"actor": "Heath Ledger", "character": "The Joker"},
+          {"actor": "Aaron Eckhart", "character": "Harvey Dent"}
+        ],
+        "synopsis": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, forcing Batman to join forces with police lieutenant James Gordon and district attorney Rachel Dawes."
+      },
+      {
+        "title": "The Matrix",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "release_year": 1999,
+        "genre": ["Action", "Sci-Fi"],
+        "rating": 8.7,
+        "duration": 136,
+        "cast": [
+          {"actor": "Keanu Reeves", "character": "Neo"},
+          {"actor": "Laurence Fishburne", "character": "Morpheus"},
+          {"actor": "Carrie-Anne Moss", "character": "Trinity"}
+        ],
+        "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+      }
+    ]
+  }
